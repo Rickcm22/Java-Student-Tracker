@@ -15,4 +15,4 @@
 ## 🚀 Installation & Execution
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/Rickcm22/Java-Student-Tracker.git](https://github.com/Rickcm22/Java-Student-Tracker.git)
+   git clone https://github.com/Rickcm22/Java-Student-Tracker.git
